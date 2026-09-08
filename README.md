@@ -65,41 +65,33 @@ focus: Generative AI | Agentic Systems | Full-Stack Engineering
 <!--                          CURRENTLY WORKING ON                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 🔭 &nbsp;What I'm Building Right Now
-
 <div align="center">
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-🤖 **AI Agents & Agentic Workflows**
-<br/>
+🤖 **AI Agents & Agentic Workflows**  
 <sub>Multi-node LangGraph pipelines with stateful reasoning, tool use, and autonomous decision-making</sub>
 
 </td>
 <td width="50%" align="center">
 
-
-📄 **AI-Powered Document Analysis**
-<br/>
+📄 **AI-Powered Document Analysis**  
 <sub>Intelligent extraction, summarization, and semantic search across legal & enterprise documents</sub>
-
-</td>
-<td width="50%" align="center">
-
-🧬 **Full-Stack AI Applications**
-<br/>
-<sub>End-to-end systems combining Angular/FastAPI backends with production-grade LLM integrations</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 
+🧬 **Full-Stack AI Applications**  
+<sub>End-to-end systems combining Angular/FastAPI backends with production-grade LLM integrations</sub>
 
-🔬 **Research-Oriented Projects**
-<br/>
+</td>
+<td width="50%" align="center">
+
+🔬 **Research-Oriented Projects**  
 <sub>Experimenting with RAG architectures, MCP servers, and novel AI application patterns</sub>
 
 </td>
