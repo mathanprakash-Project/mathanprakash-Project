@@ -80,14 +80,6 @@ focus: Generative AI | Agentic Systems | Full-Stack Engineering
 </td>
 <td width="50%" align="center">
 
-👁️ **Computer Vision Applications**
-<br/>
-<sub>Real-time image analysis, object detection, and intelligent visual processing with OpenCV & PyTorch</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
 
 📄 **AI-Powered Document Analysis**
 <br/>
@@ -105,12 +97,6 @@ focus: Generative AI | Agentic Systems | Full-Stack Engineering
 <tr>
 <td width="50%" align="center">
 
-🗣️ **NLP & Text Intelligence**
-<br/>
-<sub>Custom text classification, entity extraction, and conversational AI systems with guardrails</sub>
-
-</td>
-<td width="50%" align="center">
 
 🔬 **Research-Oriented Projects**
 <br/>
@@ -147,11 +133,8 @@ focus: Generative AI | Agentic Systems | Full-Stack Engineering
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
   <img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP"/>
   <img src="https://img.shields.io/badge/RAG-10B981?style=for-the-badge&logo=elastic&logoColor=white" alt="RAG"/>
   <img src="https://img.shields.io/badge/AI%20Agents-6c3ce9?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents"/>
@@ -161,11 +144,9 @@ focus: Generative AI | Agentic Systems | Full-Stack Engineering
 ### ⚡ Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
 </p>
 
