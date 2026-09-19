@@ -1,14 +1,12 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<!--                    ✦  MATHANPRAKASH K  —  GITHUB PROFILE  ✦              -->
-
+<!--                    ✦  MATHANPRAKASH K  —  GITHUB PROFILE  ✦                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <!-- ─────────────────────────── HERO SECTION ─────────────────────────── -->
 
-Hi there, I'm Mathanprakash K  👋
+Hi there, I'm Mathanprakash K 👋
 
 AI & Python Developer • Generative AI
 
@@ -23,7 +21,7 @@ AI & Python Developer • Generative AI
 <!-- ─────────────────────── PROFILE BADGES ──────────────────────────── -->
 
 <p>
-  <a href="www.linkedin.com/in/mathanprakash-k"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/mathanprakash-k"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/mathanprakash-Project"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:mathanprakash.karuppusamy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
@@ -35,43 +33,32 @@ AI & Python Developer • Generative AI
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<!--                             ABOUT ME                                      -->
-
+<!--                             ABOUT ME                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  About Me
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  About Me
 
-name: Mathanprakash K
-location: India
-role: AI & Full-Stack Developer
-company: Tata Consultancy Services (TCS) — 2 Years
-focus: Generative AI | Agentic Systems | Full-Stack Engineering
+name: Mathanprakash K<br/>
+location: India<br/>
+role: AI & Full-Stack Developer<br/>
+company: Tata Consultancy Services (TCS) — 2 Years<br/>
+focus: Generative AI | Agentic Systems | Full-Stack Engineering<br/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathanprakash-Project&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" width="280"/>
 
-🏢  Software Engineer at Tata Consultancy Services with 2+ years of enterprise experience
-
-🧠  Contributed to a Generative AI initiative — LLM integration, prompt engineering, API testing & AI model evaluation
-
-📊  Worked as an SAP Analyst — supporting enterprise operations, analyzing business requirements & resolving system issues
-
-🏆  Achieved A Band performance rating for outstanding performance and consistent delivery
-
-🔬  Recognized for strong analytical thinking, problem-solving, and ownership in project execution
-
-🚀  Passionate about building AI-powered applications that solve real-world problems
-
-🌱  Currently exploring Agentic AI, RAG systems, and Cloud-Native AI applications
-
-💡  Open to collaborating on AI/ML projects and research-oriented work
+🏢  Software Engineer at Tata Consultancy Services with 2+ years of enterprise experience<br/>
+🧠  Contributed to a Generative AI initiative — LLM integration, prompt engineering, API testing & AI model evaluation<br/>
+📊  Worked as an SAP Analyst — supporting enterprise operations, analyzing business requirements & resolving system issues<br/>
+🏆  Achieved A Band performance rating for outstanding performance and consistent delivery<br/>
+🔬  Recognized for strong analytical thinking, problem-solving, and ownership in project execution<br/>
+🚀  Passionate about building AI-powered applications that solve real-world problems<br/>
+🌱  Currently exploring Agentic AI, RAG systems, and Cloud-Native AI applications<br/>
+💡  Open to collaborating on AI/ML projects and research-oriented work<br/>
 
 <br clear="both"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<!--                          CURRENTLY WORKING ON                             -->
-
+<!--                          CURRENTLY WORKING ON                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -80,13 +67,13 @@ focus: Generative AI | Agentic Systems | Full-Stack Engineering
 <tr>
 <td width="50%" align="center">
 
-🤖 AI Agents & Agentic Workflows
+🤖 AI Agents & Agentic Workflows<br/>
 <sub>Multi-node LangGraph pipelines with stateful reasoning, tool use, and autonomous decision-making</sub>
 
 </td>
 <td width="50%" align="center">
 
-📄 AI-Powered Document Analysis
+📄 AI-Powered Document Analysis<br/>
 <sub>Intelligent extraction, summarization, and semantic search across legal & enterprise documents</sub>
 
 </td>
@@ -94,13 +81,13 @@ focus: Generative AI | Agentic Systems | Full-Stack Engineering
 <tr>
 <td width="50%" align="center">
 
-🧬 Full-Stack AI Applications
+🧬 Full-Stack AI Applications<br/>
 <sub>End-to-end systems combining Angular/FastAPI backends with production-grade LLM integrations</sub>
 
 </td>
 <td width="50%" align="center">
 
-🔬 Research-Oriented Projects
+🔬 Research-Oriented Projects<br/>
 <sub>Experimenting with RAG architectures, MCP servers, and novel AI application patterns</sub>
 
 </td>
@@ -110,12 +97,10 @@ focus: Generative AI | Agentic Systems | Full-Stack Engineering
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<!--                             TECH STACK                                    -->
-
+<!--                             TECH STACK                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-🛠️  Tech Stack & Arsenal
+🛠️  Tech Stack & Arsenal
 
 <div align="center">
 
@@ -181,12 +166,10 @@ focus: Generative AI | Agentic Systems | Full-Stack Engineering
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<!--                          FEATURED PROJECTS                                -->
-
+<!--                          FEATURED PROJECTS                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-🏗️  Featured Projects
+🏗️  Featured Projects
 
 <div align="center">
 
@@ -204,35 +187,29 @@ focus: Generative AI | Agentic Systems | Full-Stack Engineering
 
 <div align="center">
 
+Stack<br/>
+Python LangGraph LLaMA 3.2 (Ollama) FastAPI Angular PostgreSQL Docker<br/>
 
+Architecture<br/>
+Multi-node stateful LangGraph agent with 5-stage governance lifecycle<br/>
 
-
-
-Stack
-
-Python LangGraph LLaMA 3.2 (Ollama) FastAPI Angular PostgreSQL Docker
-
-Architecture
-
-Multi-node stateful LangGraph agent with 5-stage governance lifecycle
-
-LLM
-
+LLM<br/>
 Local edge inference via Ollama (llama3.2:3b) with cloud failover
 
 </div>
+<br/>
 
 🔑 Key Engineering Highlights:
 
-🤖 Agentic Multi-Turn Triage Engine — Engineered a stateful, multi-node diagnostic agent using LangGraph and LLaMA 3.2 to orchestrate dynamic IT diagnostics, verify operational prerequisites, and generate structured tickets with zero hallucination
+🤖 Agentic Multi-Turn Triage Engine — Engineered a stateful, multi-node diagnostic agent using LangGraph and LLaMA 3.2 to orchestrate dynamic IT diagnostics, verify operational prerequisites, and generate structured tickets with zero hallucination<br/>
 
-🛡️ Zero-Trust Guardrails & Context-Aware Routing — Built domain guardrails using prompt injection shields, regex PII redaction, and scope-classifier nodes that distinguish valid technical incidents from out-of-scope queries with automated governance routing
+🛡️ Zero-Trust Guardrails & Context-Aware Routing — Built domain guardrails using prompt injection shields, regex PII redaction, and scope-classifier nodes that distinguish valid technical incidents from out-of-scope queries with automated governance routing<br/>
 
-🔄 Resilient Multi-Model & Schema Enforcement — Implemented strict Pydantic JSON schema validation with Tenacity exponential backoff retries and dynamic failover between local edge models (LLaMA 3.2:3b) and cloud enterprise LLMs, ensuring 100% deterministic outputs
+🔄 Resilient Multi-Model & Schema Enforcement — Implemented strict Pydantic JSON schema validation with Tenacity exponential backoff retries and dynamic failover between local edge models (LLaMA 3.2:3b) and cloud enterprise LLMs, ensuring 100% deterministic outputs<br/>
 
-📡 Real-Time Event-Driven Architecture — Deployed an async FastAPI gateway with PostgreSQL (JSONB) state checkpointing and Server-Sent Events (SSE) to stream live agent reasoning steps and real-time lifecycle notifications
+📡 Real-Time Event-Driven Architecture — Deployed an async FastAPI gateway with PostgreSQL (JSONB) state checkpointing and Server-Sent Events (SSE) to stream live agent reasoning steps and real-time lifecycle notifications<br/>
 
-🏛️ 5-Stage Governance Lifecycle — Full RBAC-enforced ticket lifecycle (Triage → Assignment → Execution → Resolution → Closure) with admin approval gates, manager routing, and 3-attempt reopen policy
+🏛️ 5-Stage Governance Lifecycle — Full RBAC-enforced ticket lifecycle (Triage → Assignment → Execution → Resolution → Closure) with admin approval gates, manager routing, and 3-attempt reopen policy<br/>
 
 </details>
 
@@ -246,31 +223,25 @@ Local edge inference via Ollama (llama3.2:3b) with cloud failover
 
 <div align="center">
 
+Stack<br/>
+Python LLaMA 3.3 MCP SQLite RAG ChromaDB Streamlit<br/>
 
+Architecture<br/>
+GenAI cyber-risk dashboard with MCP-driven Text-to-SQL + ChromaDB RAG<br/>
 
-
-
-Stack
-
-Python LLaMA 3.3 MCP SQLite RAG ChromaDB Streamlit
-
-Architecture
-
-GenAI cyber-risk dashboard with MCP-driven Text-to-SQL + ChromaDB RAG
-
-Focus
-
+Focus<br/>
 Vulnerability prioritization & NIST compliance mapping
 
 </div>
+<br/>
 
 🔑 Key Engineering Highlights:
 
-🔍 MCP-Driven Threat Analysis — Engineered a GenAI cyber-risk dashboard pairing an MCP-driven SQLite Text-to-SQL pipeline with ChromaDB RAG to semantically map threat telemetry to NIST compliance standards
+🔍 MCP-Driven Threat Analysis — Engineered a GenAI cyber-risk dashboard pairing an MCP-driven SQLite Text-to-SQL pipeline with ChromaDB RAG to semantically map threat telemetry to NIST compliance standards<br/>
 
-🧠 Zero-Hallucination Remediation — Integrated LLaMA 3.3 models backed by strict schema validation guardrails to automate vulnerability prioritization and generate zero-hallucination remediation briefings
+🧠 Zero-Hallucination Remediation — Integrated LLaMA 3.3 models backed by strict schema validation guardrails to automate vulnerability prioritization and generate zero-hallucination remediation briefings<br/>
 
-📊 Interactive Risk Dashboard — Built with Streamlit for real-time vulnerability visualization and compliance tracking
+📊 Interactive Risk Dashboard — Built with Streamlit for real-time vulnerability visualization and compliance tracking<br/>
 
 </details>
 
@@ -284,35 +255,28 @@ Vulnerability prioritization & NIST compliance mapping
 
 <div align="center">
 
+Stack<br/>
+Python LangGraph RAG FastAPI React PostgreSQL/pgvector GKE<br/>
 
+Architecture<br/>
+5-stage Agentic RAG pipeline with Human-in-the-Loop review<br/>
 
+Focus<br/>
+Automated ticket classification, grounded response synthesis & safe resolution<br/>
 
-
-Stack
-
-Python LangGraph RAG FastAPI React PostgreSQL/pgvector GKE
-
-Architecture
-
-5-stage Agentic RAG pipeline with Human-in-the-Loop review
-
-Focus
-
-Automated ticket classification, grounded response synthesis & safe resolution
-
-Live Demo
-
+Live Demo<br/>
 Open Demo
 
 </div>
+<br/>
 
 🔑 Key Engineering Highlights:
 
-🤖 5-Stage Agentic RAG Pipeline — Engineered a production pipeline covering 13-category intent classification → YAML-driven escalation → pgvector cosine-similarity retrieval with helpfulness-weighted ranking → few-shot response synthesis → deterministic safety validation
+🤖 5-Stage Agentic RAG Pipeline — Engineered a production pipeline covering 13-category intent classification → YAML-driven escalation → pgvector cosine-similarity retrieval with helpfulness-weighted ranking → few-shot response synthesis → deterministic safety validation<br/>
 
-🧑‍💻 Human-in-the-Loop Cockpit — Built a real-time React/TypeScript dashboard with JWT-secured RBAC and Zustand state management for reviewing, editing, approving, and escalating AI-generated responses, with approved knowledge feeding back into the pgvector knowledge base
+🧑‍💻 Human-in-the-Loop Cockpit — Built a real-time React/TypeScript dashboard with JWT-secured RBAC and Zustand state management for reviewing, editing, approving, and escalating AI-generated responses, with approved knowledge feeding back into the pgvector knowledge base<br/>
 
-☁️ Production Cloud Deployment — Deployed a 4-service Kubernetes architecture on GKE using PostgreSQL/pgvector, Ollama, FastAPI, and Nginx, with Helm, TLS-terminated Ingress, GitHub Actions CI/CD, and bcrypt/JWT authentication
+☁️ Production Cloud Deployment — Deployed a 4-service Kubernetes architecture on GKE using PostgreSQL/pgvector, Ollama, FastAPI, and Nginx, with Helm, TLS-terminated Ingress, GitHub Actions CI/CD, and bcrypt/JWT authentication<br/>
 
 </details>
 
@@ -326,41 +290,33 @@ Open Demo
 
 <div align="center">
 
+Stack<br/>
+Python MCP SQLite LLMs Text-to-SQL<br/>
 
+Architecture<br/>
+MCP server connecting clinical data with GenAI models<br/>
 
-
-
-Stack
-
-Python MCP SQLite LLMs Text-to-SQL
-
-Architecture
-
-MCP server connecting clinical data with GenAI models
-
-Focus
-
+Focus<br/>
 Patient risk profiling & hospital readmission prediction
 
 </div>
+<br/>
 
 🔑 Key Engineering Highlights:
 
-🔗 Secure MCP Server — Developed a Python-based MCP server that securely connects clinical data with GenAI models for intelligent healthcare analysis
+🔗 Secure MCP Server — Developed a Python-based MCP server that securely connects clinical data with GenAI models for intelligent healthcare analysis<br/>
 
-📋 AI-Powered Clinical Tools — Built AI tools for patient risk profiling, hospital readmission prediction, and secure Text-to-SQL querying with read-only access controls
+📋 AI-Powered Clinical Tools — Built AI tools for patient risk profiling, hospital readmission prediction, and secure Text-to-SQL querying with read-only access controls<br/>
 
-🔐 Data Security First — Implemented strict read-only access controls ensuring patient data integrity throughout the analysis pipeline
+🔐 Data Security First — Implemented strict read-only access controls ensuring patient data integrity throughout the analysis pipeline<br/>
 
 </details>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<!--                          GITHUB STATISTICS                                -->
-
+<!--                          GITHUB STATISTICS                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-📊  GitHub Analytics
+📊  GitHub Analytics
 
 <div align="center">
 
@@ -375,12 +331,10 @@ Patient risk profiling & hospital readmission prediction
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<!--                        CONTRIBUTION SNAKE                                 -->
-
+<!--                        CONTRIBUTION SNAKE                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-🐍  Contribution Graph
+🐍  Contribution Graph
 
 <div align="center">
 
@@ -397,13 +351,14 @@ Patient risk profiling & hospital readmission prediction
 <details>
 <summary><b>📋 Click to view the GitHub Actions workflow for the snake animation</b></summary>
 
+```yaml
 # .github/workflows/snake.yml
 name: Generate Snake Animation
 
 on:
   schedule:
     - cron: "0 0 * * *"   # Runs daily at midnight UTC
-  workflow_dispatch:        # Allow manual trigger
+  workflow_dispatch:      # Allow manual trigger
 
 jobs:
   build:
@@ -419,129 +374,3 @@ jobs:
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-Steps:
-
-Create the repository mathanprakash-Project/mathanprakash-Project (your profile repo)
-
-Add .github/workflows/snake.yml with the content above
-
-Go to Settings → Actions → General and enable Read and write permissions under "Workflow permissions"
-
-Manually trigger the workflow from the Actions tab
-
-The snake animation will auto-generate daily
-
-</details>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<!--                       DEVELOPER PHILOSOPHY                                -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-💭  How I Think About Code
-
-<div align="center">
-
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║     " Build.  Break.  Learn.  Improve.  Repeat. "               ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-🔨 Build to learn, not to impress
-<br/>
-<sub>The best way to understand a concept is to implement it end-to-end. Theory without practice is forgettable.</sub>
-
-🧹 Write code your future self will thank you for
-<br/>
-<sub>Clean abstractions, meaningful names, and honest documentation beat clever one-liners every time.</sub>
-
-🤖 AI is a tool, not a shortcut
-<br/>
-<sub>Understanding the fundamentals matters more than chaining API calls. Know the math, own the system.</sub>
-
-</td>
-<td width="50%">
-
-🌍 Learn in public, share what you build
-<br/>
-<sub>Open-source is the best teacher. Reading others' code and sharing your own accelerates growth.</sub>
-
-🔄 Ship, measure, iterate
-<br/>
-<sub>Perfection is a moving target. Get it working, then get it right, then get it fast.</sub>
-
-🎯 Solve the right problem
-<br/>
-<sub>Before writing a single line, make sure you understand what success looks like for the end user.</sub>
-
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<!--                          BEYOND CODE                                      -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-🎮  Beyond Code
-
-<div align="center">
-
-🔬 Exploring new AI ideas
-
-🛠️ Building experimental prototypes
-
-🧪 Testing wild hypotheses
-
-📚 Learning emerging tech
-
-💡 Turning "what if?" into "it works!"
-
-🌱 Growing one commit at a time
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<!--                        CONNECT WITH ME                                    -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-🤝  Let's Build Something Intelligent Together
-
-<div align="center">
-
-<br/>
-
-<p>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/mathanprakash-Project"><img src="https://img.shields.io/badge/Follow%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35"/></a>
-  &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Send%20an-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35"/></a>
-</p>
-
-<br/>
-
-<sub>💬 Whether it's an AI project, an open-source collaboration, or just a conversation about tech — I'm always open to connecting.</sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c3ce9&height=120&section=footer" width="100%"/>
-
-</div>
